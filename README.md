@@ -1,4 +1,4 @@
-# E-commerce-Database-Design
+# E-commerce-Database-Design | PLP assignment
 
 📦 Peer Group Assignment: E-commerce Database Design
 🎯 Objective
